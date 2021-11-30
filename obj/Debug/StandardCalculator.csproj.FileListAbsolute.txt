@@ -1,0 +1,10 @@
+C:\Users\owner\Documents\KennyProjects\StandardCalculator\bin\Debug\StandardCalculator.exe.config
+C:\Users\owner\Documents\KennyProjects\StandardCalculator\bin\Debug\StandardCalculator.exe
+C:\Users\owner\Documents\KennyProjects\StandardCalculator\bin\Debug\StandardCalculator.pdb
+C:\Users\owner\Documents\KennyProjects\StandardCalculator\obj\Debug\StandardCalculator.csproj.AssemblyReference.cache
+C:\Users\owner\Documents\KennyProjects\StandardCalculator\obj\Debug\StandardCalculator.Properties.Resources.resources
+C:\Users\owner\Documents\KennyProjects\StandardCalculator\obj\Debug\StandardCalculator.csproj.GenerateResource.cache
+C:\Users\owner\Documents\KennyProjects\StandardCalculator\obj\Debug\StandardCalculator.csproj.CoreCompileInputs.cache
+C:\Users\owner\Documents\KennyProjects\StandardCalculator\obj\Debug\StandardCalculator.exe
+C:\Users\owner\Documents\KennyProjects\StandardCalculator\obj\Debug\StandardCalculator.pdb
+C:\Users\owner\Documents\KennyProjects\StandardCalculator\obj\Debug\StandardCalculator.eight.resources
