@@ -49,7 +49,6 @@ namespace StandardCalculator
             this.add = new System.Windows.Forms.Button();
             this.result = new System.Windows.Forms.TextBox();
             this.equation = new System.Windows.Forms.Label();
-            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // seven
@@ -275,22 +274,11 @@ namespace StandardCalculator
             this.equation.TabIndex = 22;
             this.equation.Click += new System.EventHandler(this.label1_Click);
             // 
-            // button1
-            // 
-            this.button1.Location = new System.Drawing.Point(263, 63);
-            this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(48, 45);
-            this.button1.TabIndex = 23;
-            this.button1.Text = "OFF";
-            this.button1.UseVisualStyleBackColor = true;
-            this.button1.Click += new System.EventHandler(this.button1_Click);
-            // 
             // eight
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
-            this.ClientSize = new System.Drawing.Size(313, 271);
-            this.Controls.Add(this.button1);
+            this.ClientSize = new System.Drawing.Size(260, 266);
             this.Controls.Add(this.equation);
             this.Controls.Add(this.result);
             this.Controls.Add(this.add);
@@ -344,7 +332,6 @@ namespace StandardCalculator
         private System.Windows.Forms.Button add;
         private System.Windows.Forms.TextBox result;
         private System.Windows.Forms.Label equation;
-        private System.Windows.Forms.Button button1;
     }
 }
 
