@@ -1,0 +1,7 @@
+logs/
+.vs/
+App.config
+bin/
+obj/
+Properties/
+Form1.resx
